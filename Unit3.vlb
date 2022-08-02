@@ -1,0 +1,16 @@
+﻿[DBGrid1]
+Coordinates=130,20,64,36
+Visible=True
+
+[DataSource1]
+Coordinates=102,1,89,36
+
+[FDQuery1]
+Coordinates=10,10,83,124
+
+[FDConnection1]
+Coordinates=210,56,104,36
+
+[]
+Coordinates=229,1,91,36
+
